@@ -1,1 +1,1 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-18T09:53:45.861Z","userMetadata":{},"modelName":"NHU Animal3 image model","labels":["大象","狗","馬","牛","雞","羊"]}
+{"tfjsVersion":"1.3.1","tmVersion":"2.3.1","packageVersion":"0.8.4","packageName":"@teachablemachine/image","timeStamp":"2021-05-18T11:16:03.628Z","userMetadata":{},"modelName":"NHU Animal3 image model","labels":["大象","狗","馬","牛","雞","羊"]}
